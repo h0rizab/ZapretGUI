@@ -1,0 +1,16 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <SolidColorBrush x:Key="BgDark" Color="#FFF3F4F6"/>
+    <SolidColorBrush x:Key="BgCard" Color="#FFFFFFFF"/>
+    <SolidColorBrush x:Key="BgCardHover" Color="#FFEEF0F3"/>
+    <SolidColorBrush x:Key="AccentGreen" Color="#FF059669"/>
+    <SolidColorBrush x:Key="AccentRed" Color="#FFDC2626"/>
+    <SolidColorBrush x:Key="AccentRedSoft" Color="#1ADC2626"/>
+    <SolidColorBrush x:Key="AccentSoft" Color="#1A059669"/>
+    <SolidColorBrush x:Key="TextPrimary" Color="#FF111827"/>
+    <SolidColorBrush x:Key="TextSecondary" Color="#FF6B7280"/>
+    <SolidColorBrush x:Key="BorderBrush" Color="#FFE5E7EB"/>
+    <SolidColorBrush x:Key="HoverOverlay" Color="Black"/>
+    <SolidColorBrush x:Key="OnAccent" Color="White"/>
+    <SolidColorBrush x:Key="LogBg" Color="#FFF9FAFB"/>
+</ResourceDictionary>
